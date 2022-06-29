@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "django-tiendadj",
+  "private_key_id": "72de8ad68193660f7161cf390caa066a08c71f5e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1VmmusaxU+1Va\nseqUBil4DDdp4fsPQ5MoBgEOfsyLs2CBw5USnUlvbxC/6ZcvL9tGQMYlE2j6TLqP\nIyra/Uutmfy3sEckQeFZL4dro/QV6GjPCWmm1fJq+J7lANNdyWGFn9DMvVYjkM4A\nAxqdDnx4fkfOqb53umzo32n0dvjXr0fC8x707MS1EtP+Kxqa+t5A3PWfnUSzEORY\nBg9qQPk9caKMSYRm9nZ2jnOzMNu7qvWlIh2obYvTT3FgebRhggl7RyRpkCF9Zr3A\nHPcg9dQ/d0K0KX26FFnkiJLtt1UcYK+Q19eiEmMoVUp0R/GkF9PBbl6u/uZhtNTW\nw0FMNsAlAgMBAAECggEAH4iV2yOZcLO+DYX34WLK7k3NixOZiXd6TRDyOReSsU5x\nn08oCrMgVIjvVDgmKrX7PxW/fy4HaNNT89UtPCSk9tzaxgSY8nSkX9J0jaLWrMKc\nCzi7TyBQRgrS8sa4eswsscRvVlMsegXR1M21YI9m1Ls8+HKrJP3dt4c2USUpM7RD\nTCHuUvO4rnPNWOoOaAh9Oad4ejsVYCbRikuKu3pTr1xx13gqM2r1BZx/Umnvmfl5\n+3cca8uHDBCi9xWzZbJMY4LhwBm6y2AIlS300LnVMZhq4Ov7Yb0dPwugfV7E8hVb\nnmLdnw1buJUFFYK+pptibSOcqzom+Qiheqjwmn0gNwKBgQD0+q4cGyoa/NFGCn3p\nzKxdmayE9auEuqVbMnkrAOaYZAsH5slgqENJaObDOAo1xSpLrJQoYlnjgeqU0Vb2\nde10MtYQMMkFZjlMQtRHNSqZ+fqPzgatZH6/v4SMwdvvipt4HVYsAr6ToDnPQPQi\nTszg2xcpp+uFuGXLsTlBwmKMLwKBgQC9fsyQt/PXwPu7juX1cf9FBZAycqwzsdY7\nGKechKTw0mOwySY0fUATpWdVkzyd5pMVqPdEcmLjXwZhoAvxOmYYDkpBydgx+nk+\n65laIXGI1memy4U6kXtu2s/aWJM6JtQJpMHQPSz0Z/UTs4zcxPeK9nffadPE3WMP\nrUYWJie/6wKBgQClM8Nj+sGbL3Bk3kBpAPgfqrkXdKA0wrUt2cyyPkpC6/wwWObm\nQrIVeCNd9JWWCx7ppzjGPwTFEmBB+SW+0GnP2VRX2L5G4Ne04MBMQMM40MWyYkpI\ndaOv5RQa48RQNlV/W7E3vqYL4Zn6dJ/t3tv0qmplUfLW2zHyedHV0aMpSwKBgDpw\nRz/+KuoHrtppuEtYa6PqkkyshqSunGW/NbmUQpWuHGZhsjGPytoEMXj3nkMH36ZX\nZGIscIi0PnCO/f/XxbJ3fbkKOW04VHnuCG3+UFgl3vNWYnDsesd2HZG1rTnKzatn\nrwm8RAffo3n+7lsLN1gYqGEy7scQi0NDaZDdFXcfAoGAJUlY8hvKWe3Pr9S/xqHP\nVlGVyWGGyPgclvZ1lddtffvWloj/9HrHKUHOlF77zHp3BzQMifKWqItNA/vH2svG\nSKx4dp675oYvaGVM+hBqoMCnvvwJPJAVsJr5JPCl/fvA6ZKv/eJWC4yfgn1ed5eS\n/qbLCt48ZHvI0fLy+FBnO1w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xeriv@django-tiendadj.iam.gserviceaccount.com",
+  "client_id": "102105829923164470490",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xeriv%40django-tiendadj.iam.gserviceaccount.com"
+}
