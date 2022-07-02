@@ -67,4 +67,14 @@ class ProccessSailSerializer2(serializers.Serializer):
     products = ArrayIntegerSerializer()
     counts = ArrayIntegerSerializer()
 
-
+    #validate 
+    #Value contain the value that was choosen at that time
+    def validate_type_invoce(self, value):
+        if value != '0':
+            raise serializers.ValidationError('Ingresse un valor correcto')
+        return value
+    #another and is global
+    #Data contain all the values inside a dictionary
+    def validate(self, data):
+        if data['type_payment'] != '0':
+            raise serializers.ValidationError('Ingresse un tipo de pago')

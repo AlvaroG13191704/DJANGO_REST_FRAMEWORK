@@ -59,3 +59,4 @@ class FilterProducts(ListAPIView):
             woman=woman,
             name=name
         )
+

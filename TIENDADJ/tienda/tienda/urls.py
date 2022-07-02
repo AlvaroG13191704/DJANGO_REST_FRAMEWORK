@@ -20,5 +20,9 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('',include('users.urls')),
     path('',include('producto.urls')),
-    path('',include('venta.urls'))
+    path('',include('venta.urls')),
+    #router
+    path('',include('producto.routers')),
+    path('',include('venta.api.routers')),
+
 ]
